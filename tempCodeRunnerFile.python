@@ -1,0 +1,4 @@
+inp = open("D:/My Study Files/Fall 2022/422/Lab 1/inp.txt",'r')
+arr =inp.readlines()
+
+print(inp)
